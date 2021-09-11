@@ -1,2 +1,2 @@
-# qpanel
+# qPanel
 Website control panel
